@@ -3,3 +3,4 @@ venv
 vector_db
 __pycache__
 .ipynb_checkpoints
+.DS_STORE
